@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "artista": "Bad Omens",
+        "album": "The Death of Peace of Mind",
+        "anio": 2022,
+        "genero": "Metalcore / Alternative Rock",
+        "canciones_destacadas": [
+            "Just Pretend",
+            "The Death of Peace of Mind",
+            "Artificial Suicide"
+        ]
+    },
+    {
+        "id": 2,
+        "artista": "Motionless in White",
+        "album": "Scoring the End of the World",
+        "anio": 2022,
+        "genero": "Industrial Metal / Metalcore",
+        "canciones_destacadas": [
+            "Masterpiece",
+            "Cyberhex",
+            "Slaughterhouse"
+        ]
+    },
+    {
+        "id": 3,
+        "artista": "Bring Me The Horizon",
+        "album": "POST HUMAN NeX GEn",
+        "anio": 2024,
+        "genero": "Metalcore",
+        "canciones_destacadas": [
+            "DArkSide",
+            "LosT",
+            "sTraNgeRs"
+        ]
+    }
+]
